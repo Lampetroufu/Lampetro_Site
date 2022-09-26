@@ -45,8 +45,8 @@ https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
  
  function abrirAlerta(){
 	 Swal.fire({
-  title: 'Sweet!',
-  text: 'Modal with a custom image.',
+  title: 'VISITAÇÃO E AGENDAMENTO!',
+  text: 'Para agendar uma visitação por favor envie um email para filipe.lima@ufu.br atual coordenador: Filipe Lima.',
   imageUrl: 'https://unsplash.it/400/200',
   imageWidth: 400,
   imageHeight: 200,
